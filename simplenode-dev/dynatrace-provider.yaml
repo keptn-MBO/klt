@@ -1,9 +1,0 @@
-apiVersion: metrics.keptn.sh/v1alpha1
-kind: KeptnMetricsProvider
-metadata:
-  name: dynatrace
-spec:
-  targetServer: "wqa48789.live.dynatrace.com"
-  secretKeyRef:
-    name: dynatrace
-    key: dt0c01.3KQNBI3SCBQUFEX7Q32LSTKG.WCQ2IGCPBFMRUYG5RQL6ASGCJB6MTOMZRKDNVKN4XOR4IRATRKPV7BTJD5NWTU2U
