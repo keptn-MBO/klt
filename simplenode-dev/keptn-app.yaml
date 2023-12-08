@@ -7,6 +7,6 @@ spec:
   version: "1.0.0"
   workloads:
     - name: simplenode
-      version: 1.0.3
+      version: 1.0.2
   preDeploymentEvaluations:
     - app-pre-deploy-eval
