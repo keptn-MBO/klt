@@ -4,7 +4,7 @@ metadata:
   name: simplenode
 spec:
   rules:
-    - host: simplenode-dev.3.136.156.19.nip.io
+    - host: simplenode-dev.3.15.143.41.nip.io
       http:
         paths:
           - path: /
